@@ -12,7 +12,8 @@ This project relies on Java features to create a simple copy-and-paste book.
 none
 
 # Usage
-none
+Download the folder and run the jar file
+If you are using a zip file, decompress it before using it.
 
 # Note
 I don't know if it works in environments other than windows10.

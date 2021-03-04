@@ -6,7 +6,7 @@ none
 
 # Features
 This work was developed for me to study Java.
-In order to differentiate it from other copy / paste books, I set my favorite images and aimed for a work that is familiar but allows me to experience a little fun.
+This project relies on Java features to create a simple copy-and-paste book.
 
 # Requirement
 none
